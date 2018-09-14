@@ -30,6 +30,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [Two-Stream Convolutional Networks for Action Recognition in Videos](http://www.robots.ox.ac.uk/~vgg/publications/2014/Simonyan14b/simonyan14b.pdf.pdf) - K. Simonyan and A. Zisserman, NIPS2014.
 
 ### Action Classification
+* Interaction-aware Spatio-temporal Pyramid Attention Networks for Action Classification - ECCV2018
 * [Neural Graph Matching Networks for Fewshot 3D Action Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Neural_Graph_Matching_ECCV_2018_paper.pdf) - M. Guo et al., ECCV2018.
 * [Temporal 3D ConvNets using Temporal Transition Layer](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w19/Diba_Temporal_3D_ConvNets_CVPR_2018_paper.pdf) - A. Diba et al., CVPRW2018.
 * [Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification](https://arxiv.org/abs/1711.08200) - A. Diba et al., arXiv2017.
@@ -44,6 +45,9 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf) - L. Wang et al, CVPR2015. [[code]](https://github.com/wanglimin/TDD)
 
 ### Temporal Action Detection
+* W-TALC: Weakly-supervised Temporal Activity Localization and Classification - ECCV2018
+* [BSN: Boundary Sensitive Network for Temporal Action Proposal Generation](http://arxiv.org/abs/1806.02964) - Tianwei Lin etal., ECCV2018 [[code]](https://github.com/wzmsltw/BSN-boundary-sensitive-network)
+* CTAP: Complementary Temporal Action Proposal Generation - Jiyang Gao et al., ECCV2018
 * [Rethinking the Faster R-CNN Architecture for Temporal Action Localization](https://arxiv.org/pdf/1804.07667v1.pdf) - Yu-Wei Chao et al., CVPR2018
 * [Weakly Supervised Action Localization by Sparse Temporal Pooling Network](https://arxiv.org/pdf/1712.05080) - Phuc Nguyen et al., CVPR 2018
 * [Temporal Deformable Residual Networks for Action Segmentation in Videos](http://web.engr.oregonstate.edu/~sinisa/research/publications/cvpr18_TDRN.pdf) - P. Lei and S. Todrovic., CVPR2018.
